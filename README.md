@@ -152,6 +152,11 @@ There are several examples inside the `examples` folder:
 * `demo`: the official demo application.
 
 You can run those example applications by calling:
+On windows install scoop from scoop.sh
+and then install yarn and make as below:
+```
+scoop install yarn make
+```
 
 ```sh
 # At the react-admin project root
